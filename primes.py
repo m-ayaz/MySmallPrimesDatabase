@@ -10,7 +10,7 @@ from tqdm import tqdm
 
 
 
-n=1000000
+n=10000000
 
 
 
